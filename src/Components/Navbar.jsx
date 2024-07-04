@@ -2,7 +2,7 @@ import { Menu, X} from "lucide-react";
 import { useState } from "react";
 import logo from '../assets/logo.png'
 import { navItems } from "../constants"
-import { label } from 'three/examples/jsm/nodes/Nodes.js'
+
 
 const Navbar = () => {
     // Here we declare two variable and it default value is false which will indicate that it desclose in the begining
